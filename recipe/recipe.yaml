@@ -2,8 +2,8 @@ schema_version: 1
 
 context:
   name: refnx
-  version: "0.1.65"
-  sha256: 503c3aece90621c3083bb48f5849fa2687f16b5eae9ca4fb7c5fab83db5562ca
+  version: "0.1.66"
+  sha256: a399cf7d994f89bd65ca675b5e3f9cfb9af5b5d1a193d4b8557db828829309da
   numpy: "2.0.0"
   python_min: "3.11"
 
