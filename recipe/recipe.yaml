@@ -10,13 +10,7 @@ context:
 package:
   name: ${{ name }}
   version: ${{ version }}
-https://files:
-  pythonhosted:
-    org/packages/91/c0/cd6a2bb50a7e8c22e9fafbb1c43e067d2540670b5a45c5ed21d343726b92/refnx-0:
-      1:
-        67:
-          tar:
-            gz:
+
 source:
   url: https://files.pythonhosted.org/packages/source/r/refnx/refnx-${{ version }}.tar.gz
   sha256: ${{ sha256 }}
